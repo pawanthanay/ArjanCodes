@@ -1,0 +1,13 @@
+In this lesson, you'll learn about the importance of data types in Python and how they help in better understanding and handling data efficiently. It covers three main types: numerical types (integers, floats, and decimals), text types (strings and formatted strings), and types representing a limited set of states (Booleans and enumerated types). You'll see how numerical types are used for different purposes and the importance of choosing the right type to avoid performance issues and precision errors. We also explore strings, their operations, and the use of f-strings for formatting. Finally, the lesson discusses Booleans and enumerated types, explaining how they help in making your code more readable and reducing errors. Understanding these data types and their nuances is crucial for making better design decisions in your software development.
+
+
+-> strings are immutable 
+
+-> since Python 3.6 you can use f-strings for formatted strings.
+
+
+True acts as 1 
+False acts as 0
+
+result = True + True  # Equals 2  
+zero = True * False # Equals 0
