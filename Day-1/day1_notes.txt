@@ -1,0 +1,14 @@
+I learn about types and type systems in programming with a focus on Python. It compares Python's dynamic typing with the static typing used in languages like Java and C#. Furthermore, how types enhance code readability and help prevent errors, even though Python doesn't require explicit type definitions. Through various examples, it covers different typing paradigms such as static vs. dynamic, manifest vs. inferred, and nominal vs. structural typing. You'll also get an introduction to duck typing in Python and a discussion on the pros and cons of using type annotations. Overall, the video emphasizes the benefits of type annotations for improving code quality and developer productivity.
+
+
+--------------------------------------
+
+In Java 
+
+private int age (Here if we see we are declaring the type)
+
+In Python 
+
+my_var = 5 (no need to specify type)
+
+-> In python types mainly useful for methods and functions
