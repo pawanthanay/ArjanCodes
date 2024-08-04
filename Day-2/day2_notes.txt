@@ -11,3 +11,15 @@ False acts as 0
 
 result = True + True  # Equals 2  
 zero = True * False # Equals 0
+
+
+
+*****************************************************************************
+The decimal module in Python provides support for fast and correctly-rounded decimal floating point arithmetic. The decimal module offers several advantages over the built-in float type:
+
+    More precision: The decimal module can handle decimal numbers with more precision than the binary float type.
+
+    Exact decimal representation: Decimal numbers are represented exactly, which can avoid some of the issues with floating-point arithmetic (e.g., representing 0.1 exactly).
+
+    Control over precision and rounding: The decimal module allows you to control the precision and rounding behavior.
+******************************************************************************
