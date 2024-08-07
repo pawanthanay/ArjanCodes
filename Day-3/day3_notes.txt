@@ -1,0 +1,2 @@
+-> In Python, Enums are build by using classes
+
