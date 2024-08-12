@@ -1,3 +1,6 @@
 In this video, you'll dive into Python classes, focusing on both data-focused and behavior-focused classes. You'll learn about the basics of Python classes, their role as blueprints for creating objects, and how they can focus on either behavior or data. Additionally, alternative packages to data classes like Pydantic and the Atars library, which offer more advanced features like validation and conversion to dictionaries or JSON. Furthermore, it covers advanced uses of data classes, including default values, the field function for creating default factories, and post-initialization customization.
 
 Lastly, how to optimize memory usage and performance in classes, the importance of encapsulation, and how Python handles it using underscores, providing a level of separation and indicating private variables.
+
+
+-> (order = true)
